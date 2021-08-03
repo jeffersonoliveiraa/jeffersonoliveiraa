@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<!--
-**jeffersonoliveiraa/jeffersonoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Jefferson Status](https://github-readme-stats.vercel.app/api?username=jeffersonoliveiraa&show_icons=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonoliveiraa&layout=compact)
+
+<!--
+**jeffersonoliveiraa/jeffersonoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
