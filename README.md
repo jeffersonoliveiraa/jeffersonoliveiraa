@@ -3,6 +3,11 @@
 ![Jefferson Status](https://github-readme-stats.vercel.app/api?username=jeffersonoliveiraa&show_icons=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonoliveiraa&layout=compact)
 
+### 📲 Contact me
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonoliveirarodrigues75@gmail.com)](mailto:jeffersonoliveirarodrigues75@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-oliveira-1b5556173/)](https://www.linkedin.com/in/jefferson-oliveira-1b5556173/)
+
 <!--
 **jeffersonoliveiraa/jeffersonoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
